@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093587689614",
+    "project_id": "madone-31ea9",
+    "storage_bucket": "madone-31ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093587689614:android:a1997d6fa4ea726a1ca9df",
+        "android_client_info": {
+          "package_name": "com.example.madone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPtzVxXva9NT_y7-BR8FZH4ECYiQ34_cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
